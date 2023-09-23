@@ -20,3 +20,11 @@ Console.WriteLine(z);
 Console.WriteLine(a);
 Console.WriteLine(b);
 Console.WriteLine(c);
+//Testando mudanças de Nome do Repositório.
+Console.WriteLine(frase);
+Console.WriteLine(x);
+Console.WriteLine(y);
+Console.WriteLine(z);
+Console.WriteLine(a);
+Console.WriteLine(b);
+Console.WriteLine(c);
